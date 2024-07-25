@@ -1,2 +1,2 @@
-#### Weather API
+#### Extracting Weather Data
 ###### A simple project to load data from the weather API. This project serves as an introductory exercise for understanding ETL (Extract, Transform, Load) tasks. It involves extracting weather data from a publicly available API, transforming the data into a suitable format, and loading it into a database or a data warehouse. This project helps in getting hands-on experience with API integration, data cleaning, and data storage techniques.
